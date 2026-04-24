@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+blocked_ips.json
+whitelist.json
+venv/
